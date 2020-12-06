@@ -1,0 +1,12 @@
+{
+  "name": "forum-scripts",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build": "rm -rf dist/ && tsc -p ./tsconfig.json --outDir dist"
+  },
+  "dependencies": {
+    "typescript": "^4.1.2"
+  },
+  "devDependencies": {}
+}

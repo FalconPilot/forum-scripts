@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "target": "ES5",
+    "removeComments": true,
+    "lib": ["es2015", "dom", "es2017"]
+  },
+  "include": ["./src"]
+}
